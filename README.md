@@ -4,4 +4,8 @@ This notebook can be used to download videos from YouTube, transcribe locally wi
 
 Enjoy!
 
+PS: if you find it useful, please 🌟 the repo, thanks!
+
+Obligatory blog self-promotion:
+
 [👉 Cool machine learning tutorials](https://forecastegy.com/tags/machine-learning/)
